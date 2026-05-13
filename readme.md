@@ -25,7 +25,7 @@ npm install
 cp .env.example .env
 
 
-Tech Stack 
+##Tech Stack 
 
 Blockchain: Arc Testnet (Circle) — EVM L1, Chain ID: 5042002
 Language: Solidity ^0.8.20
@@ -35,7 +35,7 @@ Gas Token: USDC (native)
 JavaScript Runtime: Node.js + ethers.js
 Environment: dotenv
 
-Contract
+##Contract
 MyToken.sol — Standard ERC-20 token with mint functionality (owner-only).Useful LinksOfficial Website: arc.network
 
 Testnet Explorer: testnet.arcscan.app
